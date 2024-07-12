@@ -1,1 +1,2 @@
-# seven-more-languages-in-seven-weeks
+# Seven More Languages In Seven Weeks
+## Week 1: Lua
